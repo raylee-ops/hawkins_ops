@@ -1,0 +1,20 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 18, 2025 11:00:03 PM
+2025/11/18 23:00:03 ERROR 3 (0x00000003) Getting File System Type of Destination D:\Backups\HAWKINS_OPS\
+The system cannot find the path specified.
+
+   Source : C:\HAWKINS_OPS\
+     Dest = D:\Backups\HAWKINS_OPS\
+
+    Files : *.*
+	    
+  Options : *.* /NDL /NFL /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+2025/11/18 23:00:03 ERROR 3 (0x00000003) Creating Destination Directory D:\Backups\HAWKINS_OPS\
+The system cannot find the path specified.
